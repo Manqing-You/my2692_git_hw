@@ -1,0 +1,15 @@
+--2020-10-02 00:51:22--  https://image.baidu.com/search/detail?ct=503316480
+Resolving image.baidu.com (image.baidu.com)... 103.235.46.231
+Connecting to image.baidu.com (image.baidu.com)|103.235.46.231|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://image.baidu.com [following]
+--2020-10-02 00:51:22--  https://image.baidu.com/
+Reusing existing connection to image.baidu.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘detail?ct=503316480’
+
+detail?ct=503316480              [<=>                                            ]       0  --.-KB/s               detail?ct=503316480              [ <=>                                           ]  63.99K  --.-KB/s    in 0.01s   
+
+2020-10-02 00:51:22 (5.31 MB/s) - ‘detail?ct=503316480’ saved [65529]
+
